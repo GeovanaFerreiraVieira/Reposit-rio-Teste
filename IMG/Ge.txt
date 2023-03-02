@@ -1,0 +1,26 @@
+
+02/03
+SO- Principios e configurações/hardware
+Github- Formatações extras em arquivos.md
+Html- Introdução 
+
+
+
+                                  
+                                    Ações                                    
+Commit- Publicar
+Fork- Cópia
+Push-	Quando algum desencvolvedor iria publiar o reporitorio não sendo dono
+Pull- Mesmo ação do anterior, mas normalmente se utiliza qnd é o próprio "dono"- Publish
+
+                                    Componentes
+Repositorio- Pastinha do projeto
+Branch- Divisões ( "árvore")
+Commit- Se torna um component do github(singular), dá para ver as versões dos cod. (em plural)
+Gist- Tópicos/listar uma determinada página/component do github
+Sponsors( pátrocinio)
+
+ Pq a imagem deu erro no repositorio?
+
+
+
